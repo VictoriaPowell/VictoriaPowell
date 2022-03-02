@@ -1,6 +1,6 @@
 # Hi there, my name is Victoria Powell 👋
 
-## I'm a Front-End Developer with experience in Full-Stack and System Integrations
+## I'm a Front-End Developer with experience in Full-Stack and System Integrations 💙
 
 - 🔭 I’m currently working on an updated Vue 3 based personal website
 - 🌱 I’m currently learning Web Accessibility and web graphics
