@@ -1,6 +1,6 @@
-### Hi there, my name is Victoria Powell 👋
+# Hi there, my name is Victoria Powell 👋
 
-## I'm a Front-End Developer with experience in Full-Stack and System Integrations. 
+## I'm a Front-End Developer with experience in Full-Stack and System Integrations
 
 - 🔭 I’m currently working on an updated Vue 3 based personal website
 - 🌱 I’m currently learning Web Accessibility and web graphics
@@ -9,16 +9,17 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I enjoy nature photography and painting
 
-### Connect with me:
+### Connect with me
 
-[![website](./img/vip-developer.svg)](http://vip-developer.com)
+[![website](./img/vip-developer-light.svg)](http://vip-developer.com#gh-light-mode-only)
+[![website](./img/vip-developer-dark.svg)](http://vip-developer.com#gh-dark-mode-only)
 
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/victoriaipowell#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/victoriaipowell#gh-dark-mode-only)
 
-<br />
+[Element: br]
 
-### Languages and Tools:
+### Languages and Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
