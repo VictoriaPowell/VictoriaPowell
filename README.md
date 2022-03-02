@@ -13,11 +13,8 @@
 
 [![website](./img/vip-developer-light.svg)](http://vip-developer.com#gh-light-mode-only)
 [![website](./img/vip-developer-dark.svg)](http://vip-developer.com#gh-dark-mode-only)
-
 [![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/victoriaipowell#gh-light-mode-only)
 [![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/victoriaipowell#gh-dark-mode-only)
-
-[Element: br]
 
 ### Languages and Tools
 
